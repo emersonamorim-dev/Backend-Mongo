@@ -6,4 +6,4 @@ Utilizando principais Annotations como: @RestController, @RequestMapping, @Autow
 @TypeAlias, @DBRef,  @Override, @Repository, @Component e @EnableMongoRepositories. E implementando MongoRepository que adiciona os principais Métodos para Crud.
 A aplicação já está conteinerizada com uso de Docker rodando uma imagem do Jdk:11 para iniciar de forma local use apenas o comando:
 
-##docker-compose up
+## docker-compose up
